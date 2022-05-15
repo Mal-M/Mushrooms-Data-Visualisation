@@ -26,12 +26,3 @@ for column in columns:
 
   plt.show()
   plt.clf()
-  
-
-
-
-
-
-
-
-
